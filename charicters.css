@@ -1,3 +1,15 @@
+html{
+  background-color:rgb(148, 178, 136);
+  body, html {
+    height: 100%;
+    margin: 0;
+  }
+
+
+
+
+
+
 ul {
     list-style-type: none;
     margin: 0;
@@ -21,3 +33,4 @@ ul {
   ul li a:hover {
     background-color: #111111;
   }
+}
