@@ -33,4 +33,11 @@ ul {
   ul li a:hover {
     background-color: #111111;
   }
+  .c4{
+    padding: 10px;
+    display: grid;
+    grid-template-columns: auto auto;
+    border-radius:10px ;
+    background-color:rgb(135, 206, 250) ;
+  }
 }

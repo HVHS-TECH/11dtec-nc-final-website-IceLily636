@@ -34,4 +34,21 @@ ul {
     background-color: #111111;
   }
 
+  .c2{
+    padding: 10px;
+    display: grid;
+    grid-template-columns: auto auto;
+    border-radius:10px ;
+    background-color:rgb(58, 46, 46) ;
+
+  }
+  h1 {
+    padding: 10px;
+    overflow: hidden;
+    color: ghostwhite;
+  }
+  
+
+
+
 }

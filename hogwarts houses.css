@@ -5,6 +5,13 @@ html{
     margin: 0;
   }
 
+  h1 {
+    padding: 10px;
+    overflow: hidden;
+    color:ghostwhite;
+  }
+  
+
 
 
 
@@ -35,4 +42,11 @@ ul {
     background-color: #111111;
   }
 
+  .c3{
+    padding: 10px;
+    display: grid;
+    grid-template-columns: auto auto;
+    border-radius:10px ;
+    background-color:#101419 ;
+  }
 }
