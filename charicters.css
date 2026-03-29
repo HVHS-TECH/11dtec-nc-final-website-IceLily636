@@ -6,6 +6,16 @@ html{
   }
 
 
+h1 {
+  padding: 10px;
+  overflow: hidden;
+  color: ghostwhite;
+}
+
+p{ padding: 10px;
+overflow: hidden;}
+
+
 
 
 
@@ -38,6 +48,6 @@ ul {
     display: grid;
     grid-template-columns: auto auto;
     border-radius:10px ;
-    background-color:rgb(135, 206, 250) ;
+    background-color:rgb(20, 85, 71) ;
   }
 }

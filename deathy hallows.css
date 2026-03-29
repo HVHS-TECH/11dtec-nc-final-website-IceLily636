@@ -48,7 +48,8 @@ ul {
     color: ghostwhite;
   }
   
-
+p{ padding: 10px;
+  overflow: hidden;}
 
 
 }
