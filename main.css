@@ -1,5 +1,5 @@
 html{
-  background-color:rgb(192, 240, 233);
+  background-color:rgb(148, 178, 136);
   body, html {
     height: 100%;
     margin: 0;
@@ -7,16 +7,13 @@ html{
 
 
 
-ul {
-  position: sticky;
-    top: 0;
+
+  ul {
     list-style-type: none;
-    margin: 2;
+    margin: 0;
     padding: 0;
-    padding-left: 200;
     overflow: hidden;
-    background-color: darkcyan;
-    
+    background-color: #333333;
   }
   
   ul li {
@@ -32,19 +29,21 @@ ul {
   }
   
   ul li a:hover {
-    background-color:cadetblue;
+    background-color: #111111;
   }
+
   .c1{
     padding: 10px;
     display: grid;
     grid-template-columns: auto auto;
     border-radius:10px ;
-    background-color:rgb(135, 206, 250) ;
+    background-color:#101419  ;
   }
 
 h1 {
   padding: 10px;
   overflow: hidden;
+  color: ghostwhite;
 }
 
 p{
