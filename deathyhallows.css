@@ -51,5 +51,14 @@ ul {
 p{ padding: 10px;
   overflow: hidden;}
 
-
+  .c2 img{
+    width: 945px;
+  
+  
+  }
+  header img{
+    width: 100%;
+    height: 40%;
+  }
+  
 }

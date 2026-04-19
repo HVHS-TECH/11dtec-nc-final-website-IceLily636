@@ -40,4 +40,14 @@ ul {
     border-radius:10px ;
     background-color:rgb(135, 206, 250) ;
   }
+  .c5 img{
+    width: 945px;
+  
+  
+  }
+  header img{
+    width: 100%;
+    height: 40%;
+  }
+  
 }
