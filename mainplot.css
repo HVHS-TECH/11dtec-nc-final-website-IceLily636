@@ -38,7 +38,7 @@ ul {
     display: grid;
     grid-template-columns: auto auto;
     border-radius:10px ;
-    background-color:rgb(135, 206, 250) ;
+    background-color:#101419  ;
   }
   .c5 img{
     width: 100%;
@@ -49,5 +49,9 @@ ul {
     width: 100%;
     height: 40%;
   }
-  
+  h1 {
+    padding: 10px;
+    overflow: hidden;
+    color: ghostwhite;
+  }
 }
